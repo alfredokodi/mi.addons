@@ -1,0 +1,7 @@
+<addon id="repository.mi-repo" name="Mi Repositorio" version="1.0.0" provider-name="Tu Nombre">
+    <extension point="xbmc.addon.repository" name="Mi Repositorio">
+        <info compressed="false">https://raw.githubusercontent.com/alfredokodi/mi.addons/main/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/alfredokodi/mi.addons/main/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/alfredokodi/mi.addons/main/zips/</datadir>
+    </extension>
+</addon>
